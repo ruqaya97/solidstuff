@@ -1,0 +1,5 @@
+this project open files and encrypt them as enc_filename and only decrypt the files that starts with enc
+and by that we limit access to files when shared 
+by using fernet to encrypt/decrypt and flask to create the app
+and i used the key:anything 
+if you want to test the text sample
